@@ -28,11 +28,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone [https://github.com/Subkash2206/PhishFinder.git](https://github.com/Subkash2206/PhishFinder.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd YOUR_REPOSITORY
+    cd PhishFinder
     ```
 3.  **Install the required dependencies:**
     *(**Note:** You should create a `requirements.txt` file by running `pip freeze > requirements.txt` in your terminal)*
